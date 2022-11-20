@@ -1,0 +1,15 @@
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/obj/Debug/net6.0/refint/Example002_HelloUser.dll
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/aleksandr/Desktop/Example001_HelloConsole/Example001_HelloConsol/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
